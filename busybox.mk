@@ -1,5 +1,5 @@
 all:
 	make
 prepare:
-	./configure
+	#busybox need not configuration. 
 
